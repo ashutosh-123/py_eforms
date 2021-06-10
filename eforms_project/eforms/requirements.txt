@@ -3,7 +3,7 @@ appdirs==1.4.3
 billiard==3.5.0.2
 celery==3.1.25
 contextlib2==0.5.5
-Django==1.10.7
+Django==2.2.24
 django-cors-headers==2.0.2
 django-unused-media==0.1.6
 djangorestframework==3.6.2
