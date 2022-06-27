@@ -29,7 +29,7 @@ pyparsing==2.2.0
 pytz==2017.2
 PyYAML==3.12
 raven==6.0.0
-reportlab==3.4.0
+reportlab==3.5.55
 requests==2.14.2
 rsa==3.4.2
 six==1.10.0
